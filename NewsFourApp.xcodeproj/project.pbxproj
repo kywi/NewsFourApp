@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D2598E01C71B54900A6B1A9 /* OBject.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D2598DF1C71B54900A6B1A9 /* OBject.m */; };
 		741DEBD019979B4400B86EB1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 741DEBCF19979B4400B86EB1 /* README.md */; };
 		741E2346199711A200280786 /* UIImage+ImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = 741E2343199711A200280786 /* UIImage+ImageEffects.m */; };
 		741E2347199711A200280786 /* UIImageView+LBBlurredImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 741E2345199711A200280786 /* UIImageView+LBBlurredImage.m */; };
@@ -46,6 +47,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0D2598DE1C71B54900A6B1A9 /* OBject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OBject.h; sourceTree = "<group>"; };
+		0D2598DF1C71B54900A6B1A9 /* OBject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OBject.m; sourceTree = "<group>"; };
 		741DEBCF19979B4400B86EB1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 		741E2342199711A200280786 /* UIImage+ImageEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageEffects.h"; sourceTree = "<group>"; };
 		741E2343199711A200280786 /* UIImage+ImageEffects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ImageEffects.m"; sourceTree = "<group>"; };
@@ -180,6 +183,8 @@
 				745CBB791995235B001D103E /* RightViewController.m */,
 				745CBB8B19952380001D103E /* SubViewController.h */,
 				745CBB8C19952380001D103E /* SubViewController.m */,
+				0D2598DE1C71B54900A6B1A9 /* OBject.h */,
+				0D2598DF1C71B54900A6B1A9 /* OBject.m */,
 				745CBB5619951B42001D103E /* Images.xcassets */,
 				745CBB4B19951B42001D103E /* Supporting Files */,
 			);
@@ -360,6 +365,7 @@
 				745CBB8919952367001D103E /* UIViewController+MLTransition.m in Sources */,
 				741E2347199711A200280786 /* UIImageView+LBBlurredImage.m in Sources */,
 				745CBB8A19952367001D103E /* QHSliderViewController.m in Sources */,
+				0D2598E01C71B54900A6B1A9 /* OBject.m in Sources */,
 				745CBB7D1995235B001D103E /* MainAppViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
